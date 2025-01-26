@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <RootNamespace>TP357</RootNamespace>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>Daniel Elstner</Authors>
     <PackageId>TP357.ThermometerWatcher</PackageId>
     <Description>Reads BLE advertisement messages for TP357 thermometers</Description>
