@@ -21,6 +21,7 @@ public class ThermometerWatcher
 
     public void Start(CancellationToken stoppingToken)
     {
+        bluetoothLEAdvertisementWatcher.Start();
         stoppingToken.Register(bluetoothLEAdvertisementWatcher.Stop);
     }
 
