@@ -1,11 +1,11 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net9.0-windows10.0.17763.0</TargetFramework>
+    <TargetFramework>net10.0-windows10.0.17763.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <RootNamespace>TP357</RootNamespace>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
     <Authors>Daniel Elstner</Authors>
     <PackageId>TP357.ThermometerWatcher</PackageId>
     <Description>Reads BLE advertisement messages for TP357 thermometers</Description>

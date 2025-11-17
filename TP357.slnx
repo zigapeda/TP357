@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="TP357.Example/TP357.Example.csproj" />
+  <Project Path="TP357/TP357.csproj" />
+</Solution>
